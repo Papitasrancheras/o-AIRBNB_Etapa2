@@ -1,1 +1,1 @@
-plotly_express-dev
+plotly-dev
