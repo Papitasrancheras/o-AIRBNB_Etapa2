@@ -1,4 +1,8 @@
+functools
+unicodedata
 streamlit
 altair
 pandas
 numpy
+plotly.express
+matplotlib.pyplot
