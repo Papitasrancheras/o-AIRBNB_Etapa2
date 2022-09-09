@@ -1,5 +1,5 @@
 streamlit
 pandas
 numpy
-plotly.express==0.4.0
+plotly ==0.4.0
 matplotlib
