@@ -5,4 +5,4 @@ altair
 pandas
 numpy
 plotly
-matplotlib.pyplot
+matplotlib
